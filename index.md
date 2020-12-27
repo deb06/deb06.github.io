@@ -1,25 +1,3 @@
-<html>
-<head>
-<style>
-body {
-  background-color: white;
-}
+# This best understand CSS
 
-h1 {
-  color: black;
-  text-align: center;
-}
-
-p {
-  font-family: "Times New Roman";
-  font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<h1>deb06</h1>
-<p>This is my GitHub page</p>
-
-</body>
-</html>
+please i only know basic css
