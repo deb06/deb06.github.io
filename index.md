@@ -1,5 +1,7 @@
 Python gaming 😎
 
+Learning JS
+
 
 # Here are some of my projects:
 
