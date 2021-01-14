@@ -17,7 +17,7 @@ This can and has produced some really funny moments.
 
 it is actually open source, and you can set it up for yourself:
 
-[Here is the link to the repository](https://github.com/deb06/AI-testing)
+[Here is the link to the repository](https://github.com/deb06/Cool-bot)
 
 
 
