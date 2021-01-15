@@ -24,7 +24,7 @@ it is actually open source, and you can set it up for yourself:
 
 **- Discord Bot:**
 
-This is my biggest prroject so far, and I am really proud of it.
+This is my biggest project so far, and I am really proud of it.
 
 It's a more traditional Discord bot with commands, some of which use external APIs.
 
