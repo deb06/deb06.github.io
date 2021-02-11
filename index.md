@@ -36,6 +36,15 @@ Here is the top.gg listing for the bot:
 
 
 
+**- Windows App:**
 
+I just followed a [basic toturial](https://www.youtube.com/watch?v=jE-SpRI3K5g) for this one, with some small changes
+
+I don't have an exe version of the app becuase windows is stupid and thinks that it is a virus, just becuase it runs other apps.
+
+[Link to repo](https://github.com/deb06/Windows-App)
+
+
+##Conclusion
 
 Overall, I enjoy coding and Discord is a good platform to code things on. The API is rather simple, and there are a lot of free toturials online
